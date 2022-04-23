@@ -1,0 +1,70 @@
+*{
+	max-width: 750px;
+	margin: auto;
+
+}
+
+.p-0{
+	padding: 0px;
+	margin: 0px;
+}
+.pt-1
+{
+	padding-top: 1	0px;
+}
+#profile
+{
+	padding-left: 50px ;
+}
+
+#header
+{
+	padding: 10px;
+	padding-top: 50px;
+	padding-left: 50px;
+	background-color: #7d1622;
+	color:  white;
+	padding-bottom: 15px;
+}
+.mb-0
+{
+	margin-bottom: 0;
+}
+.mt-0
+{
+	margin-top: 0;
+}
+h2
+{
+	color: #7d1622;
+}
+.m-0 
+{
+	margin:  0	;
+}
+#workExpr
+{
+	padding-left: 50px;
+}
+.workExprDet
+{
+	padding-top: 10px;
+	width: 30%;
+	float: left;
+}
+.twentywidth
+{
+	width: 20%;
+}
+.eightywidth
+{
+	width: 80%;
+}
+#edu
+{
+	padding-left:  50px;
+}
+#skills
+{
+	padding-left: 50px;
+}
